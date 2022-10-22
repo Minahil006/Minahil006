@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Community Manager, Programmer and Desginer</h3>
 <img align="right" alt="Programmer" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minahhil006" alt="minahhil006" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minahil006" alt="minahhil006" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@s_manahilsays" target="blank"><img src="https://img.shields.io/twitter/follow/@s_manahilsays?logo=twitter&style=for-the-badge" alt="@s_manahilsays" /></a> </p>
 
