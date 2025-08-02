@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Programming, Designing & Web Development**
 
-- 📫 How to reach me **syedamanahilf19@nutech.edu.pk**
+- 📫 How to reach me **smanahil2000@gmail.com**
 
 - ⚡ Fun fact **Love Food - Traveling - Hiking - Singing**
 
